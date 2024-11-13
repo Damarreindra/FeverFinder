@@ -2,7 +2,6 @@ import { ChampionsGlobe } from '@/components/organism/ChampionsGlobe'
 import { MenuMarquee } from '@/components/organism/MenuMarquee'
 import Background from '@/components/ui/bg'
 import { Award, File, Hospital } from 'lucide-react'
-import React from 'react'
 
 function Home() {
   return (

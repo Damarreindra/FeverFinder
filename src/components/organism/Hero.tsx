@@ -1,4 +1,3 @@
-import React from 'react'
 import DotPattern from '../ui/dot-pattern'
 import BlurIn from '../ui/blur-in'
 import TypingAnimation from '../ui/typing-animation'
